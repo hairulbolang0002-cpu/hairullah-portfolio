@@ -81,7 +81,7 @@
 <body>
 
 <header>
-    <img src="foto.jpg" alt="Foto Hairullah">
+    <img src="foto1.jpg" alt="Foto Hairullah">
     <h1>Hairullah</h1>
     <p>Freelance • Programmer • CCTV & LAN Specialist</p>
 </header>
@@ -201,3 +201,4 @@
 
 </body>
 </html>
+
